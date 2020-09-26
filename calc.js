@@ -5,21 +5,25 @@ class Calc {
         this.number = number;
     }
 
-    add(n){
+    add(n) {
         this.number += n;
+        return this;
     }
 
 
     subtract(n) {
         this.number -= n;
+        return this;
     }
 
     multiply(n) {
         this.number *= n;
+        return this;
     }
 
-     devide(n) {
+    devide(n) {
         this.number /= n; //exception when n=0?
+        return this;
     }
 
     square() {
@@ -32,7 +36,7 @@ class Calc {
         return this;
     }
 
-    value(){
+    value() {
         return this.number;
     }
 
