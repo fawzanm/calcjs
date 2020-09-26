@@ -1,13 +1,13 @@
 # calcjs
-A simple javascript package to chain common math operations. 
+A simple javascript package to chain common math operations.
 
-##Installation
+## Installation
 `npm i calcjs`
 
-##Usage
+## Usage
 ```
 const calcjs = require("calcjs");
- 
+
 const number = 2;
 
 const calc = new calcjs(number);
