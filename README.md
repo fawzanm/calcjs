@@ -1,12 +1,12 @@
-# calcjs
+# chain-calc-js
 A simple javascript package to chain common math operations.
 
 ## Installation
-`npm i calcjs`
+`npm i chain-calc-js`
 
 ## Usage
 ```
-const calcjs = require("calcjs");
+const calcjs = require("chain-calc-js");
 
 const number = 2;
 

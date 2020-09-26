@@ -1,6 +1,6 @@
 {
-  "name": "calc",
-  "version": "1.0.0",
+  "name": "chain-calc-js",
+  "version": "1.0.1",
   "description": "A simple javascript package to chain common math operations. ",
   "main": "index.js",
   "scripts": {
