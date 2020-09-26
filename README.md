@@ -6,7 +6,7 @@ A simple javascript package to chain common math operations.
 
 ## Usage
 ```
- const calcjs = require("chain-calc-js");
+const calcjs = require("chain-calc-js");
 
 const number = 2;
 
